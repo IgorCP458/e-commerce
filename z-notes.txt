@@ -1,0 +1,9 @@
+1. Body de cor diferenciada das seções
+2. Seções diferentes (visualmente também) 
+3. Seções intercalam entre si
+4. Itens dos produtos com mais detalhes
+5. Itens "seções" que te levam para seções específicas
+6. API de posts e photos
+
+Itens que estão sendo resolvidos:
+    1. Completo => Ficou lega, vai melhorar quando tivermos seções diferentes
